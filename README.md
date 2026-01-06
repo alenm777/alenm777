@@ -8,11 +8,9 @@ Soy un Full Stack Developer apasionado por la tecnología y la programación. Es
 
 ## 🌐 Redes sociales:
 
-¡Conectemos en diferentes plataformas! Puedes encontrarme en:
+¡Conectemos. Puedes encontrarme en:
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/aleenn_m/)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/username/)](https://www.linkedin.com/in/al%C3%A9n-mu%C3%B1oz-107560231/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/username)](https://twitter.com/alenmunoz7)
 
 
 
